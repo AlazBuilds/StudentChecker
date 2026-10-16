@@ -24,6 +24,6 @@ python check_students.py
 <img width="457" height="618" alt="image" src="https://github.com/user-attachments/assets/aaa60195-74da-4c9a-8baa-a24c54d7e46e" />
 
 ## What I'd add next
-- catch names that are almost the same spelling wise
+- catch names spelled almost the same
 - fix the easy problems automatically
 - put the results in a chart
