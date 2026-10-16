@@ -1,0 +1,107 @@
+student_id,problem
+28,missing email
+78,missing email
+96,missing email
+137,missing email
+170,missing email
+179,missing email
+219,missing email
+221,missing email
+224,missing email
+226,missing email
+288,missing email
+301,missing email
+364,missing email
+372,missing email
+373,missing email
+382,missing email
+439,missing email
+464,missing email
+508,missing email
+27,missing passport_number
+30,missing passport_number
+43,missing passport_number
+57,missing passport_number
+107,missing passport_number
+118,missing passport_number
+139,missing passport_number
+149,missing passport_number
+164,missing passport_number
+174,missing passport_number
+183,missing passport_number
+196,missing passport_number
+200,missing passport_number
+225,missing passport_number
+242,missing passport_number
+271,missing passport_number
+305,missing passport_number
+329,missing passport_number
+335,missing passport_number
+380,missing passport_number
+419,missing passport_number
+448,missing passport_number
+456,missing passport_number
+461,missing passport_number
+480,missing passport_number
+513,missing passport_number
+35,bad email
+75,bad email
+91,bad email
+163,bad email
+181,bad email
+193,bad email
+295,bad email
+304,bad email
+321,bad email
+324,bad email
+369,bad email
+392,bad email
+407,bad email
+431,bad email
+463,bad email
+469,bad email
+493,bad email
+496,bad email
+497,bad email
+499,bad email
+507,bad email
+71,date doesnt exist
+88,date doesnt exist
+105,date doesnt exist
+154,date doesnt exist
+205,date doesnt exist
+218,date doesnt exist
+251,date doesnt exist
+332,date doesnt exist
+384,date doesnt exist
+435,date doesnt exist
+512,date doesnt exist
+59,passport expires too soon
+83,passport expires too soon
+120,passport expires too soon
+184,passport expires too soon
+245,passport expires too soon
+271,passport expires too soon
+273,passport expires too soon
+316,passport expires too soon
+321,passport expires too soon
+361,passport expires too soon
+365,passport expires too soon
+396,passport expires too soon
+467,passport expires too soon
+485,passport expires too soon
+510,passport expires too soon
+501,duplicate
+502,duplicate
+503,duplicate
+504,duplicate
+505,duplicate
+506,duplicate
+507,duplicate
+508,duplicate
+509,duplicate
+510,duplicate
+511,duplicate
+512,duplicate
+514,duplicate
+515,duplicate
