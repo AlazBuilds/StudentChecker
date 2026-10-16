@@ -20,13 +20,10 @@ python check_students.py
 `check_students.py` prints a summary and saves every problem to `problems_found.csv`.
 
 ## Example output
-```
-rows checked: 515
-students with a problem: 100
-total problems: 106
-```
+<img width="392" height="610" alt="image" src="https://github.com/user-attachments/assets/80391d7c-4e86-463e-a283-ae2c8ede33ae" />
+<img width="457" height="618" alt="image" src="https://github.com/user-attachments/assets/aaa60195-74da-4c9a-8baa-a24c54d7e46e" />
 
 ## What I'd add next
-- catch names that are almost the same (like "Jon" and "John")
+- catch names that are almost the same spelling wise
 - fix the easy problems automatically
 - put the results in a chart
